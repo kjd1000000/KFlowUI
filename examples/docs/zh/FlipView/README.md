@@ -12,7 +12,7 @@ export default {
     data () {
         return {
             value: [1,2,3,4,5],
-            images: ['https://github.com/aleversn/VFluent/blob/master/examples/assert/sample/1.jpg?raw=true', 'https://github.com/aleversn/VFluent/blob/master/examples/assert/sample/2.jpg?raw=true', 'https://github.com/aleversn/VFluent/blob/master/examples/assert/sample/3.jpg?raw=true']
+            images: ['https://github.com/kjd1000000/KFlowUI/blob/master/examples/assert/sample/1.jpg?raw=true', 'https://github.com/kjd1000000/KFlowUI/blob/master/examples/assert/sample/2.jpg?raw=true', 'https://github.com/kjd1000000/KFlowUI/blob/master/examples/assert/sample/3.jpg?raw=true']
         }
     }
 }

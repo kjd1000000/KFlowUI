@@ -3,7 +3,7 @@ const sidebar = require('../sidebar.json')
 const webpack = require("webpack")
 
 module.exports = {
-    base: '/VFluent/',
+    base: '/KFlowUI/',
     title: 'FluentVueDesign',
     description: 'FluentVueDesign',
     configureWebpack: {

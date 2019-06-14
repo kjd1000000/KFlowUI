@@ -17,7 +17,7 @@ let version={
   }
 }
 
-process.exec("npm view vfluentdesign version",function(error,stdout,stderr){
+process.exec("npm view kflowui version",function(error,stdout,stderr){
   pack.version=stdout.replace('\n','')
   pack.version=version.patch(pack.version)
   console.log(`new version:${pack.version}`)

@@ -1,7 +1,7 @@
 ---
 title: UI
 home: true
-heroImage: https://raw.githubusercontent.com/aleversn/VFluent/master/examples/assert/logo/VFluent.png
+heroImage: https://raw.githubusercontent.com/kjd1000000/KFlowUI/master/examples/assert/logo/KFlowUI.png
 actionLink: /zh/
 features:
 - title: 基于Fluent Design理念设计
