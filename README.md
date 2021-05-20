@@ -33,7 +33,7 @@ components.json # 组件目录(Component directory)
 vue.config.js # Vue cli 配置(Vue cli config)
 ```
 
-### 脚本命令(2019-12-16 更新)
+### 脚本命令
 
 ```bash
 npm run pub # 打包推送到npm(Pack and push to NPM)
@@ -45,9 +45,9 @@ npm run bin:entry # 定制入口(Custom entry)
 
 ### Flow UI Design (Vue 2.0+)
 
-#### DOCS
+#### Documents
 
-[中文文档 (Chinese Doc)](https://kjd1000000.github.io/KFlowUI)
+[中文官方文档 (Chinese Doc)](https://kjd1000000.github.io/KFlowUI)
 
 #### How to use
 
